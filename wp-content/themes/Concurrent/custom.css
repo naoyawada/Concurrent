@@ -1,0 +1,14 @@
+/* Quick Links */
+
+@media screen and (min-width: 768px) {
+    .quick_links_class ul li {
+        float: left;
+        margin: 0 2rem 0 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .quick_links_class {
+        display: none;
+    }
+}
